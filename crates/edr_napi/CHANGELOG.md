@@ -1,5 +1,11 @@
 # @nomicfoundation/edr
 
+## 0.12.0-next.33
+
+### Patch Changes
+
+- af5dc7f: Fixed a bug when using a test filter where the `setUp` function would be run for empty test suites
+
 ## 0.12.0-next.32
 
 ### Minor Changes
